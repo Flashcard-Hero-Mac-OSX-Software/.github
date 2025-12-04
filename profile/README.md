@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://store-images.s-microsoft.com/image/apps.48635.13510798887594563.fc8bbfa6-fbd6-4168-b808-ebe1f3078058.016cc063-e95f-4ab8-af38-a0a7eb5e9e13" width="500">
+<img src="https://flashcardhero.com/assets/img/v2/en-mac-iphone2.jpg" width="500">
 
 </td>
 
